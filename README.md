@@ -13,7 +13,7 @@ Set screws on flange couplers need to be tightened with loctite to avoid slippin
 
 ## Robot Arm Homing Test #2
 
-![PAROL6 Robotic Arm Movement](https://i.imgur.com/KzTt2YT.gif)
+![Image](https://github.com/user-attachments/assets/b6c552f6-76ae-49e2-a41d-44707b9b1e38)
 
 Issues:  
 JOINT 3 showed less wobble during homing, which leads me to believe the backlash for the gearbox is causing it.
