@@ -1,6 +1,8 @@
 FULL DISCLOSURE:  
 I'll be very trasparent here, I did not design this project, this project is designed by Source Robotics. I just implemented it and I'm here to document and track my engineering progress in trying to built it. This is my personal project and I'm not taking credit for any work done by Source Robotics.
 
+![Image](https://github.com/user-attachments/assets/b6c552f6-76ae-49e2-a41d-44707b9b1e38)
+
 ## Robot Arm Homing Test #1 
 
 ![PAROL6 Robotic Arm Movement](https://i.imgur.com/T7i520a.gif)
@@ -13,7 +15,7 @@ Set screws on flange couplers need to be tightened with loctite to avoid slippin
 
 ## Robot Arm Homing Test #2
 
-![Image](https://github.com/user-attachments/assets/b6c552f6-76ae-49e2-a41d-44707b9b1e38)
+![PAROL6 Robotic Arm Movement](https://i.imgur.com/T7i520a.gif)
 
 Issues:  
 JOINT 3 showed less wobble during homing, which leads me to believe the backlash for the gearbox is causing it.
